@@ -1,0 +1,206 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "elevated-rails",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-age",
+      "enabled": true
+    },
+    
+    {
+      "name": "BottleneckLite",
+      "enabled": true
+    },
+    
+    {
+      "name": "DiscoScience",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_base_game_base",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_base_game_decorative",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_base_game_enemies_nauvis",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_base_game_logistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_base_game_military",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_base_game_production",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_base_game_railway",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_base_game_terrain_nauvis",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_elevated_rails",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_modpack",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_modpack_base_game_only",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_quality",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_space_age_base",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_space_age_decorative",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_space_age_enemies_gleba",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_space_age_enemies_vulcanus",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_space_age_logistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_space_age_military",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_space_age_production",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_space_age_terrain_aquilo",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_space_age_terrain_fulgora",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_space_age_terrain_gleba",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio_hd_age_space_age_terrain_vulcanus",
+      "enabled": true
+    },
+    
+    {
+      "name": "far-reach",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "FNEI",
+      "enabled": true
+    },
+    
+    {
+      "name": "helmod",
+      "enabled": true
+    },
+    
+    {
+      "name": "Milestones",
+      "enabled": true
+    },
+    
+    {
+      "name": "RateCalculator",
+      "enabled": true
+    },
+    
+    {
+      "name": "RecipeBook",
+      "enabled": false
+    },
+    
+    {
+      "name": "squeak-through-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "TaskList",
+      "enabled": true
+    },
+    
+    {
+      "name": "textplates",
+      "enabled": true
+    },
+    
+    {
+      "name": "VehicleSnap",
+      "enabled": true
+    }
+  ]
+}
